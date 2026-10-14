@@ -1,4 +1,4 @@
-I/CD — Continuous Integration & Continuous Delivery
+CI/CD — Continuous Integration & Continuous Delivery
 
 # 1. CI — Continuous Integration
 
