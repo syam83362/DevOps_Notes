@@ -1,4 +1,4 @@
-t is Git?
+what is Git?
 
 Git is a **Version Control System (VCS)** used to track changes in files and code.
 
